@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-go-lang-thing
+  description: test-golang-thing
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
