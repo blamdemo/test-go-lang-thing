@@ -10,7 +10,7 @@ Running it then should be as simple as:
 
 ```console
 $ make
-$ ./bin/test-go-lang-thing
+$ ./bin/test-go-lang-thisng
 ```
 
 ### Testing
